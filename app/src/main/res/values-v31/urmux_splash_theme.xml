@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TermuxActivity.Splash" parent="Theme.TermuxActivity.DayNight.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/urmux_navy</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/avd_urmux_splash</item>
+        <item name="android:windowSplashScreenAnimationDuration">1100</item>
+        <item name="android:windowBackground">@color/urmux_navy</item>
+    </style>
+</resources>
