@@ -1,4 +1,4 @@
-# Termux application
+# Urmux
 
 [![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
 [![Testing status](https://github.com/termux/termux-app/workflows/Unit%20tests/badge.svg)](https://github.com/termux/termux-app/actions)
@@ -7,7 +7,7 @@
 [![Termux library releases at Jitpack](https://jitpack.io/v/termux/termux-app.svg)](https://jitpack.io/#termux/termux-app)
 
 
-[Termux](https://termux.dev) is an Android terminal application and Linux environment.
+Urmux is an Android terminal application and Linux environment based on the Termux open-source project. This repository keeps the upstream terminal engine and package environment while developing an independent Urmux app identity.
 
 Note that this repository is for the app itself (the user interface and the terminal emulation). For the packages installable inside the app, see [termux/termux-packages](https://github.com/termux/termux-packages).
 
