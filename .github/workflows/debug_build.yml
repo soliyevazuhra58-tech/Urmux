@@ -1,6 +1,7 @@
 name: Urmux Universal APK
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
